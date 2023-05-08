@@ -10,5 +10,8 @@ public:
 };
 
 int main() {
-	mahasiswa mhs
+	mahasiswa mhs{1}; // object mhs
+	mhs.showNim();
+
+	}
 }
