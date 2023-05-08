@@ -2,7 +2,7 @@
 
 using namespace std;
 
-class mahasiwa {
+class mahasiswa {
 public:
 	int nim;
 	void showNim() {
